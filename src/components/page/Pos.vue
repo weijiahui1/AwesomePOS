@@ -1,9 +1,9 @@
 <template>
     <div class="pos">
       <el-container>
-        <!-- <el-aside style="width: 60px">
+        <el-aside style="width: 60px">
             <left-nav></left-nav>
-        </el-aside> -->
+        </el-aside>
         <el-main>
             <el-col :span="6">
               <tab-operation></tab-operation>
