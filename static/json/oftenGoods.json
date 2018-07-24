@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "data": [{
+    "goodsId": 1,
+    "goodsImg": "http://7xjyw1.com1.z0.glb.clouddn.com/pos001.jpg",
+    "goodsName": "香辣鸡腿堡",
+    "price": 18
+  },{
+    "goodsId": 4,
+    "goodsName": "大包薯条",
+    "price": 18
+  }, {
+    "goodsId": 7,
+    "goodsName": "可乐大杯",
+    "price": 10
+  } ,{
+    "goodsId": 10,
+    "goodsName": "快乐全家桶",
+    "price": 99
+  }]
+}
